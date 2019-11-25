@@ -1,6 +1,6 @@
 # Ligtht Detective
 
-Using arduinos to biuld to light sensetive robot.
+A light sensetive arduino robot.
 
 ## Summary
 
@@ -8,7 +8,7 @@ This will be a robot that has phototaxi just like insects. When there is a brigh
 
 ## Component Parts
 
-Arduino, Breadboard, batteries, Motor, light sensor, cardboards, acylic board
+Arduino, breadboard, batteries, motor, light sensor, cardboards, acylic board, a remote control
 
 (Include what types of inputs/outputs/data it will use.)
 
